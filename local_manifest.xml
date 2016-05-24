@@ -4,7 +4,7 @@
   <project path="external/stlport" name="CyanogenMod/android_external_stlport" remote="github" revision="cm-13.0" />
   <project path="device/samsung/i9082" name="ghsr/android_device_samsung_i9082" remote="github" revision="cm-13.0" />
   <project path="vendor/samsung/i9082" name="ghsr/android_vendor_samsung_i9082" remote="github" revision="cm-13.0" />
-  <project path="kernel/samsung/i9082" name="ghsr/android_kernel_samsung_i9082" remote="github" revision="cm-13.0" />
+  <project path="kernel/samsung/i9082" name="ghsr/android_kernel_samsung_i9082" remote="github" revision="cm-13.0-setns" />
   
   <remove-project name="platform/external/chromium-webview"/>
   <project name="pawitp/android_external_chromium-webview" path="external/chromium-webview" remote="github" revision="aosp-6.0"/>
